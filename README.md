@@ -1,2 +1,0 @@
-# GiphyPractice
-Created with CodeSandbox
